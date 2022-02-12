@@ -1,0 +1,10 @@
+Bishop:
+
+
+
+
+
+The bishop can move or take enemies at any
+amount of spaces diagonally.
+
+The bishop cannot jump over pieces./

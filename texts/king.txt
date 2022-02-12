@@ -1,0 +1,14 @@
+King:
+
+
+
+
+
+The king can move to any adjacent space,
+provided that the king will not be in check.
+
+If an enemy piece can take the king next turn,
+the king is in check.
+
+Once the king is in check, the a move must be
+made to get the king out of check./

@@ -1,0 +1,14 @@
+Checkmate and Stalemate:
+
+
+
+
+
+If no move can be made to get the king out of
+check, checkmate is reached; the player who
+put the king in checkmate wins.
+
+If every move that a player makes will put
+their king in check, but the king is not
+currently in check, it is a stalemate, which is
+a tie./

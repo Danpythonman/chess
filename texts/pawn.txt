@@ -1,0 +1,13 @@
+Pawn:
+
+
+
+
+
+The pawn can move one space ahead.
+
+If the pawn is in starting position, it can move
+two spaces up.
+
+The pawn can only take pieces if an enemy is
+one piece ahead and left or right./

@@ -1,0 +1,10 @@
+Rook:
+
+
+
+
+
+The rook can move or take pieces at any
+amount of spaces up, down, left, or right.
+
+The rook cannot jump over pieces./

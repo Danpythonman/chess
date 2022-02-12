@@ -1,0 +1,13 @@
+Knight:
+
+
+
+
+
+The knight can move two spaces in one
+direction and 1 more space in a
+perpendicular direction.
+
+For exapmle, 2 spaces up, 1 space right.
+
+The knight can jump over pieces./

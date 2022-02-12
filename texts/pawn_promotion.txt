@@ -1,0 +1,12 @@
+Pawn Promotion:
+
+
+
+
+
+If a pawn reaches the opposide side of the
+board, the player promotes the pawn to a
+higher rank.
+
+The pawn can become a rook, knight, bishop,
+or queen./

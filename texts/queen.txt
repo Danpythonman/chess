@@ -1,0 +1,11 @@
+Queen:
+
+
+
+
+
+The queen can move or take enemies at any
+amount of spaces vertically, horizontally, or
+diagonally.
+
+The queen cannot jump over pieces./
